@@ -1,0 +1,25 @@
+body {
+    padding: 45px;
+    padding-left: 10%;
+    width: 50%;
+    font-family: Arial, Verdana, sans-serif;
+    color: #665544;
+background-color: aqua;
+}
+    h1 {
+    background-color: #efefef;
+    padding-right: 80px;
+    word-spacing: 5px;
+    text-transform: uppercase;
+
+    }
+    p {
+    width: 100%;
+    
+
+}
+#example{
+    position: relative;
+    top: 10px;
+    left: 150px;
+}
